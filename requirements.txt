@@ -1,0 +1,8 @@
+openai
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+python-env
+black
